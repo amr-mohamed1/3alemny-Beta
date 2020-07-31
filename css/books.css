@@ -406,6 +406,12 @@
     }
 
 
+@media (max-width:991px){
+    .content .item button{
+        right:132.405px;
+    }
+}
+
 
 
 /* scroll to top */
